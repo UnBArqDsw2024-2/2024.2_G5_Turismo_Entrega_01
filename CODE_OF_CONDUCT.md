@@ -36,7 +36,7 @@ Este Código de Conduta aplica-se tanto dentro dos espaços do projeto quanto em
 
 ## Aplicação
 
-Situações de comportamento abusivo, assediante ou, de outra forma, inaceitável podem ser relatadas entrando em contato com a equipe do projeto no endereço contact@dnx.solutions. Todas as denúncias serão revisadas e investigadas e resultarão em uma resposta considerada necessária e apropriada para as circunstâncias. A equipe do projeto é obrigada a manter a confidencialidade em relação ao autor da denúncia. Mais detalhes sobre políticas específicas de aplicação podem ser divulgados separadamente.
+Situações de comportamento abusivo, assediante ou, de outra forma, inaceitável podem ser relatadas entrando em contato com a equipe do projeto. Todas as denúncias serão revisadas e investigadas e resultarão em uma resposta considerada necessária e apropriada para as circunstâncias. A equipe do projeto é obrigada a manter a confidencialidade em relação ao autor da denúncia. Mais detalhes sobre políticas específicas de aplicação podem ser divulgados separadamente.
 
 Mantenedores de projeto que não seguirem ou aplicarem o Código de Conduta de boa fé podem enfrentar repercussões temporárias ou permanentes, conforme determinado por outros membros da liderança do projeto.
 
