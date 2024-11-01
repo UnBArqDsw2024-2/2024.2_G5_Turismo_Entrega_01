@@ -56,6 +56,15 @@ A documentação é uma parte essencial do projeto, e suas contribuições são 
 - Prepare suas alterações em uma branch separada e faça um Pull Request quando estiver pronto.
 - Certifique-se de que a documentação siga os padrões de estilo e formatação estabelecidos pelo projeto.
 
+## Mensagens de Commit
+Para facilitar o entendimento e o histórico das alterações, é necessário que as mensagens dos commits contenham informações completas e claras sobre o que foi alterado. As mensagens devem incluir o número da *issue* correspondente para contextualizar o commit. Exemplo de formatação para mensagens de commit:
+
+```
+(#324): realizando correções no README
+```
+
+Assim, todos podem compreender o objetivo do commit sem precisar de explicações adicionais.
+
 ## Processo de Pull Request
 O processo descrito aqui possui vários objetivos:
 
