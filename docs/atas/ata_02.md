@@ -3,7 +3,7 @@
 
 ## Introdução
 
-Este artefato resume a reunião do dia 29 de Outubro de 2024 do grupo 05 realizada, expondo os principais objetivos e as questões que a equipe debateu e executou, bem como os resulltados obtidos.
+Este artefato resume a reunião do dia 29 de Outubro de 2024 do grupo 05 realizada, expondo os principais objetivos e as questões que a equipe debateu e executou, bem como os resultados obtidos.
 
 
 ## Pautas da reunião:
