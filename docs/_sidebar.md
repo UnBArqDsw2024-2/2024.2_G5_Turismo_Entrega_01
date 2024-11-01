@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/)
-- [Projetos](/Projetos/Projetos.md)
+- [Projetos](/Projeto/Projeto.md)
 
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
