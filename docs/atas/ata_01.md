@@ -59,7 +59,7 @@ Os resultados alcançados pelo grupo foram:
 ## Gravação da reunião
 
 <!--- Disponibilizar o video e o link para o video  --->
-[Link para a gravação]()
+[Link para a gravação](https://unbbr.sharepoint.com/sites/Grupo5-ArqDSW2024.2/_layouts/15/stream.aspx?id=%2Fsites%2FGrupo5%2DArqDSW2024%2E2%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FNova%20reuni%C3%A3o%20do%20canal%2D20241028%5F085407%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ef4f1b373%2D19c6%2D4cd4%2Dae28%2D116c1f27393e)
 
 ## Histórico de Versão
 
