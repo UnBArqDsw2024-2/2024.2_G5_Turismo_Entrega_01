@@ -12,10 +12,45 @@ Adquirimos os dados que foram analisados por meio de um questionário distribuid
 
 Abaixo nas figuras estão os gráficos obtidos a partir dos dados coletados que serão utilizados para elicitar os requisitos:
 
+<center>
+<div width="200" style="max-width: 600px;">
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=1184475778&amp;format=interactive"></iframe>
+</div>
+</center>
 
 <center>
 <div width="200" style="max-width: 600px;">
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=1109398266&amp;format=interactive"></iframe>
+</div>
+</center>
 
+<center>
+<div width="200" style="max-width: 600px;">
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=1722856232&amp;format=interactive"></iframe>
+</div>
+</center>
+
+<center>
+<div width="200" style="max-width: 600px;">
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=845532730&amp;format=interactive"></iframe>
+</div>
+</center>
+
+<center>
+<div width="200" style="max-width: 600px;">
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=1349796395&amp;format=interactive"></iframe>
+</div>
+</center>
+
+<center>
+<div width="200" style="max-width: 600px;">
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=11789352&amp;format=interactive"></iframe>
+</div>
+</center>
+
+<center>
+<div width="200" style="max-width: 600px;">
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=570206520&amp;format=interactive"></iframe>
 </div>
 </center>
 
