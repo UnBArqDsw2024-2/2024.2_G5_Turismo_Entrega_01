@@ -10,6 +10,7 @@
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
+      - [1.5.1. Perfil do Usuário](elicitacao/questionario/perfil_usuario.md)
 
 - **Atas**
  - [Ata - 01](atas/ata_01.md)
