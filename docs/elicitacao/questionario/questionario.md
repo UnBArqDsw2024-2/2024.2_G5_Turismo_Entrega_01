@@ -10,6 +10,15 @@ Adquirimos os dados que foram analisados por meio de um questionário distribuid
 
 ## Questionário
 
+Abaixo nas figuras estão os gráficos obtidos a partir dos dados coletados que serão utilizados para elicitar os requisitos:
+
+
+<center>
+<div width="200" style="max-width: 600px;">
+
+</div>
+</center>
+
 
 ## Referências Bibliográficas
 

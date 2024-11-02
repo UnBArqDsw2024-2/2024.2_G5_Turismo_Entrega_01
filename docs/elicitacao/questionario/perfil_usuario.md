@@ -9,6 +9,77 @@ Adquirimos os dados que foram analisados por meio de um questionário distribuid
 
 ## Questionário
 
+Abaixo nas figuras estão os gráficos obtidos a partir dos dados coletados:
+
+
+<center>
+<div width="200" style="max-width: 600px;">
+    <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=1186072460&amp;format=interactive"></iframe>
+</div>
+</center>
+
+
+
+<center>
+<div width="200" style="max-width: 600px;">
+    <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=138015584&amp;format=interactive"></iframe>
+</div>
+</center>
+
+
+<center>
+<div width="200" style="max-width: 600px;">
+    <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=728425546&amp;format=interactive"></iframe>
+</div>
+</center>
+
+
+<center>
+<div width="200" style="max-width: 600px;">
+    <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=1413035827&amp;format=interactive"></iframe>
+</div>
+</center>
+
+
+<center>
+<div width="200" style="max-width: 600px;">
+    <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=313215670&amp;format=interactive"></iframe>
+</div>
+</center>
+
+
+<center>
+<div width="200" style="max-width: 600px;">
+    <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=97371479&amp;format=interactive"></iframe>
+
+</div>
+</center>
+
+
+<center>
+<div width="200" style="max-width: 600px;">
+    <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=904267877&amp;format=interactive"></iframe>
+
+</div>
+</center>
+
+<center>
+<div width="200" style="max-width: 600px;">
+    <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=558591694&amp;format=interactive"></iframe>
+</div>
+</center>
+
+<center>
+<div width="200" style="max-width: 600px;">
+    <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=612003003&amp;format=interactive"></iframe>
+</div>
+</center>
+
+
+
+
+
+
 ## Referências Bibliográficas
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. p. 166.
