@@ -76,6 +76,7 @@ Abaixo nas figuras estão os gráficos obtidos a partir dos dados coletados:
 </center>
 
 
+## Perfil do Usuário
 
 
 
