@@ -39,18 +39,16 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 ## Informações da reunião
 
 <font size="2" >
-<p style="text-align: center"> Tabela 1: Informações da reunião. </p>
+<p> Tabela 1: Informações da reunião. </p>
 </font>
-<center>
- 
+
 | Data | Início | Fim | Local |
 |:-:|:-:|:-:|:-:|
 | 29/10/2024  | 21:15 | 23:00  | Teams |
 
-</center>
 <font size="2" >
 
-<p style="text-align: center"> Fonte: <a href="https://github.com/claudiohsc">Cláudio Henrique</a>, 2024. </p>
+<p> Fonte: <a href="https://github.com/claudiohsc">Cláudio Henrique</a>, 2024. </p>
 
 </font>
 

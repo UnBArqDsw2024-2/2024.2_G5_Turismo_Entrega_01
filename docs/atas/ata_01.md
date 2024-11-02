@@ -32,17 +32,19 @@ Definição dos objetivos do grupo e escopo do projeto a ser realizado.
 ## Informações da reunião
 
 <font size="2" >
-<p style="text-align: center"> Tabela 1: Informações da reunião. </p>
+
+<p > Tabela 1: Informações da reunião. </p>
+
 </font>
-<center>
- 
+
 | Data | Início | Fim | Local |
 |:-:|:-:|:-:|:-:|
 | 28/10/2024  | 08:40 | 11:20  | Teams |
 
-</center>
 <font size="2" >
-<p style="text-align: center"> Fonte: Elias Oliveria,2024. </p>
+
+<p>Fonte:<a href= "http://github.com/EliasOliver21"> Elias Oliveira</a>, 2024.</p>
+
 </font>
 
 ## Resultados da reunião 01
