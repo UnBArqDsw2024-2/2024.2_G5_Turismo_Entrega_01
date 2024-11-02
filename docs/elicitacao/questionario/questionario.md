@@ -5,7 +5,11 @@ O conjunto de características detalhadas definem o perfil do usuário: "O perfi
 
 ## Metodologia
 
+Adquirimos os dados que foram analisados por meio de um questionário distribuido entre os dias 31/10 e 03/11 do mês de 2024. O questionário foi disseminado em chats nas redes sociais nos fornecendo uma base de dados para a elicitação de requisitos do Web/App.
+
+
 ## Questionário
+
 
 ## Referências Bibliográficas
 
