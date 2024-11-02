@@ -1,14 +1,25 @@
 ## Introdução
 
+O conjunto de características detalhadas definem o perfil do usuário: "O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado" (BARBOSA e SILVA, 2021, p.166). Este documento revela qual o perfil dos usuários do Web/App, com base em dados que foram adquiridos por meio da técnica de Questionário, onde também foi aproveitado para realização uma elicitação de requisitos.
+
+
 ## Metodologia
 
 ## Questionário
+
+## Referências Bibliográficas
+
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. p. 166.
+
+## Bibliografia
+
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 02/11/2024 | Criação do documento| [Elias Oliveira][EliasGH]| [Cláudio Henrique][ClaudioGH] |
+|`1.0`| 02/11/2024 | Criação do documento| [Elias Oliveira][EliasGH], [Cláudio Henrique][ClaudioGH] e [Cainã Freitas][CainaGH]| |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
