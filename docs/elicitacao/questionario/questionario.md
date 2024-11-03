@@ -74,11 +74,11 @@ Abaixo nas figuras estão os gráficos obtidos a partir dos dados coletados que 
 
 Utilizando como base as respostas obtidas no questionário e demonstrados os resultados nos gráficos acima, foram elicitados requisitos presentes na tabela 01 abaixo:
 
-Legenda da tabela par tipo:
+Legenda da tabela:
 
-RNF: Requisito não funcional
+##### RNF: Requisito não funcional
 
-RF: Requisito funcional
+##### RF: Requisito funcional
 
 
 <div style="text-align: center">
@@ -88,10 +88,13 @@ RF: Requisito funcional
 |ID|Requisito|Tipo|
 |:--:|:--:|:--:|
 |QS01|O aplicativo deve ser capaz de armazenar informações básicas offline.|RNF|
-|QS02||
-|||
-|||
-|||
+|QS02|O Web/App deve apresentar sugestões de eventos de acordo com o perfil do usuário|RF|
+|QS03|O Web/App deve apresentar apresentar a programação de eventos listada por categorias.|RF|
+|QS04|O Web/App deve apresentar deve apresentar apresentar a programação de eventos em um formato de calendário por mês ou semana. |RF|
+|QS05|O Web/App deve mostrar informações sobre a estrutura oferecida no evento.|RF|
+|QS06|O Web/App deve apresentar a previsão do tempo nos dias que ocorrerão o evento.|RF|
+|QS07|O Web/App deve apresentar o endereço, vestimenta adequada, entras informações básicas.|RF|
+|QS08|O Web/App deve permitir a criação e busca de eventos relacionados a: show, concertos, feiras e exposições|RF|
 
 <div style= "text-align:center">
 <p> Fonte: Elias Oliveira, 2024. </p>
