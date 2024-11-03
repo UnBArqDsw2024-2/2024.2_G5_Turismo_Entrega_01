@@ -96,7 +96,9 @@ Legenda da tabela:
 |QS08|O Web/App deve permitir a criação e busca de eventos relacionados a: shows, concertos, feiras e exposições|RF|
 
 <div style= "text-align:center">
-<p> Fonte: [Elias Oliveira][EliasGH] e [Cláudio Henrique][ClaudioGH], 2024. </p>
+
+Fonte: [Elias Oliveira][EliasGH] e [Cláudio Henrique][ClaudioGH], 2024.
+
 </div>
 
 ## Referências Bibliográficas
