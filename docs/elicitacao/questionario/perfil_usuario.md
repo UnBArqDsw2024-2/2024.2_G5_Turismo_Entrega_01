@@ -1,6 +1,6 @@
 ## Introdução
 
-O conjunto de características detalhadas definem o perfil do usuário: "O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado" (BARBOSA e SILVA, 2021, p.166). Este documento revela qual o perfil dos usuários do Web/App, com base em dados que foram adquiridos por meio da técnica de Questionário.
+O conjunto de características detalhadas definem o perfil do usuário: "O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado" (BARBOSA e SILVA, 2021, p.166). Este documento revela qual o perfil dos usuários do EvenTour, com base em dados que foram adquiridos por meio da técnica de Questionário.
 
 
 ## Metodologia
@@ -78,6 +78,26 @@ Abaixo nas figuras estão os gráficos obtidos a partir dos dados coletados:
 
 ## Perfil do Usuário
 
+A partir dos resultados obtidos do formulário e pelas análises dos gráficos apresentados anteriormente, constatamos que o pefil de um usuário do nosso Web/App possui os seguintes aspectos representados na Tabela 1:
+
+<font size="3"><p style="text-align: center">Tabela 1: Perfil de Usuário.</p></font>
+
+<center>
+
+|Característica|Descrição|
+|---|---|
+**Idade:** |18 - 25 anos.
+**Gênero:** |Em sua maioria feminino.
+**Experiência:** |Experiente.
+**Escolaridade:** |Superior Incompleto.
+**Tarefas primárias:** |Busca por eventos na cidade atual do usuário.
+**Atitudes:** |Tecnófilos.
+**Expectativas:** | Possibilidade de criar e buscar eventos relacionados a shows, concertos, feiras, festivais e exposições.
+
+</center>
+
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 
 
@@ -91,9 +111,9 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Revisor
+| Versão | Data | Descrição | Autor | Revisor|
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 02/11/2024 | Criação do documento| [Elias Oliveira][EliasGH], [Cláudio Henrique][ClaudioGH] e [Cainã Freitas][CainaGH]| |
+|`1.0`| 02/11/2024 | Criação do documento| [Elias Oliveira][EliasGH], [Cainã Freitas][CainaGH] e [Cláudio Henrique][ClaudioGH]| |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
