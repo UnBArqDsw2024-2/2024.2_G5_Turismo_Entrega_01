@@ -1,15 +1,15 @@
 ## Introdução
 
-O questionário é uma das várias técnicas de elicitação por investigação mencionada no livro IHC de Barbosa e Silva, que nos permitindo adquirir valiosas informações sobre o usuário e aspirações deste, que podem nos mostrar mais sobre os anceios e aspirações do usuário e servir como base para a elicitação de requisitos para o nosso WebApp Eventour.
+O questionário é uma das várias técnicas de elicitação por investigação mencionadas no livro *IHC* de Barbosa e Silva. Ele permite adquirir informações valiosas sobre o usuário e suas expectativas em relação ao site/app, o que pode revelar mais sobre seus anseios e servir como base para a elicitação de requisitos para o EvenTour.
 
 ## Metodologia
 
-Adquirimos os dados que foram analisados por meio de um questionário distribuido entre os dias 31/10 e 03/11 do mês de 2024. O questionário foi disseminado em chats nas redes sociais nos fornecendo uma base de dados para a elicitação de requisitos do EvenTour.
+Adquirimos os dados que foram analisados por meio de um questionário distribuído entre os dias 31/10 e 03/11 do mês de 2024. O questionário foi disseminado em chats nas redes sociais nos fornecendo uma base de dados para a elicitação de requisitos do EvenTour.
 
 
 ## Questionário
 
-Abaixo nas figuras estão os gráficos obtidos a partir dos dados coletados que serão utilizados para elicitar os requisitos:
+Abaixo nas figuras estão os gráficos obtidos a partir dos dados coletados que foram utilizados para elicitar os requisitos:
 
 
 <center>
@@ -92,11 +92,11 @@ Legenda da tabela:
 |QS04|O Web/App deve apresentar deve apresentar apresentar a programação de eventos em um formato de calendário por mês ou semana. |RF|
 |QS05|O Web/App deve mostrar informações sobre a estrutura oferecida no evento.|RF|
 |QS06|O Web/App deve apresentar a previsão do tempo nos dias que ocorrerão o evento.|RF|
-|QS07|O Web/App deve apresentar o endereço, vestimenta adequada, entras informações básicas.|RF|
-|QS08|O Web/App deve permitir a criação e busca de eventos relacionados a: show, concertos, feiras e exposições|RF|
+|QS07|O Web/App deve apresentar o endereço, vestimenta adequada e informações básicas sobre o evento.|RF|
+|QS08|O Web/App deve permitir a criação e busca de eventos relacionados a: shows, concertos, feiras e exposições|RF|
 
 <div style= "text-align:center">
-<p> Fonte: Elias Oliveira, 2024. </p>
+<p> Fonte: [Elias Oliveira][EliasGH] e [Cláudio Henrique][ClaudioGH], 2024. </p>
 </div>
 
 ## Referências Bibliográficas
@@ -113,6 +113,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 02/11/2024 | Criação do documento| [Elias Oliveira][EliasGH], [Cláudio Henrique][ClaudioGH] e [Cainã Freitas][CainaGH]| |
 
+
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
 [ClaudioGH]: https://github.com/claudiohsc
@@ -121,7 +122,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 [JoelGH]: https://github.com/JoelSRangel
 [KathlynGH]: https://github.com/klmurussi
 [PabloGH]: https://github.com/pabloheika
-[PedroGH]: https://github.com/pedro-rodiguero
-[PedroGH]: https://github.com/pabloheika
+[PedroRGH]: https://github.com/pedro-rodiguero
+[PedroPGH]: https://github.com/Pedrin0030
 [SamuelGH]: https://github.com/samuelalvess
 [TalesGH]: https://github.com/TalesRG
