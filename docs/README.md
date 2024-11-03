@@ -1,27 +1,25 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)_(Entrega_01)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2024.2_G1_Jogo_Entrega_01*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# EvenTour
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 05<br>
 **Entrega**: 01<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 21/1030667  |  Ana Rocha | 
+| 18/0014412  |  Cainã |
+| 22/1007958  |  Cláudio Carvalho |
+| 22/1007706  |  Elias de Oliveira |
+| 20/2016382  |  Guilherme Correa |
+| 19/0029692  |  Igor de Santana |
+| 21/1039546  | Joel Rangel |
+| 18/0042378  | Kathlyn Murussi |
+| 18/0128817  | Pablo Costa |
+| 22/1008688  | Pedro Almeida |
+| 19/0139323  | Pedro Rodiguero |
+| 20/2063462  | Samuel Silva |
+| 21/1041295  | Tales Gonçalves |
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
