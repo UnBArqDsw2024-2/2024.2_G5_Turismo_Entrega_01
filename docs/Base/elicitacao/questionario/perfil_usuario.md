@@ -158,15 +158,16 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Revisor|
-|:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 02/11/2024 | Criação do documento| [Elias Oliveira][EliasGH], [Cainã Freitas][CainaGH] e [Cláudio Henrique][ClaudioGH]| |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
+| :----: | :--: | --------- | ----------- | ------ | :---: |
+|`1.0`| 02/11/2024 | Criação do documento| [Elias Oliveira][EliasGH], [Cainã Freitas][CainaGH] e [Cláudio Henrique][ClaudioGH]| |  |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
 [GuilhermeGH]: https://github.com/gmeister18
+[IgorGH]: https://github.com/Igor-Thiago
 [JoelGH]: https://github.com/JoelSRangel
 [KathlynGH]: https://github.com/klmurussi
 [PabloGH]: https://github.com/pabloheika
