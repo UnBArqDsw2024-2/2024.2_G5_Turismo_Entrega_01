@@ -12,48 +12,90 @@ Adquirimos os dados que foram analisados por meio de um questionário distribuid
 
 Abaixo nas figuras estão os gráficos obtidos a partir dos dados coletados que serão utilizados para elicitar os requisitos:
 
+
 <center>
+
+#### Gráfico - 01
+
 <div width="200" style="max-width: 600px;">
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=1184475778&amp;format=interactive"></iframe>
 </div>
 </center>
 
 <center>
+
+#### Gráfico - 02
 <div width="200" style="max-width: 600px;">
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=1109398266&amp;format=interactive"></iframe>
 </div>
 </center>
 
 <center>
+
+#### Gráfico - 03
 <div width="200" style="max-width: 600px;">
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=1722856232&amp;format=interactive"></iframe>
 </div>
 </center>
 
 <center>
+
+#### Gráfico - 04
 <div width="200" style="max-width: 600px;">
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=845532730&amp;format=interactive"></iframe>
 </div>
 </center>
 
 <center>
+
+#### Gráfico - 05
 <div width="200" style="max-width: 600px;">
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=1349796395&amp;format=interactive"></iframe>
 </div>
 </center>
 
 <center>
+
+#### Gráfico - 06
 <div width="200" style="max-width: 600px;">
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=11789352&amp;format=interactive"></iframe>
 </div>
 </center>
 
 <center>
+
+#### Gráfico - 07
 <div width="200" style="max-width: 600px;">
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=570206520&amp;format=interactive"></iframe>
 </div>
 </center>
 
+## Requisitos Elicitados
+
+Utilizando como base as respostas obtidas no questionário e demonstrados os resultados nos gráficos acima, foram elicitados requisitos presentes na tabela 01 abaixo:
+
+Legenda da tabela par tipo:
+
+RNF: Requisito não funcional
+
+RF: Requisito funcional
+
+
+<div style="text-align: center">
+<p> Tabela 01 - Requisitos </p>
+</div>
+
+|ID|Requisito|Tipo|
+|:--:|:--:|:--:|
+|QS01|O aplicativo deve ser capaz de armazenar informações básicas offline.|RNF|
+|QS02||
+|||
+|||
+|||
+
+<div style= "text-align:center">
+<p> Fonte: Elias Oliveira, 2024. </p>
+</div>
 
 ## Referências Bibliográficas
 
