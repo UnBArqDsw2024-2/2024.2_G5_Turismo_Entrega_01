@@ -1,11 +1,11 @@
 ## Introdução
 
-O conjunto de características detalhadas definem o perfil do usuário: "O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado" (BARBOSA e SILVA, 2021, p.166). Este documento revela qual o perfil dos usuários do Web/App, com base em dados que foram adquiridos por meio da técnica de Questionário, onde também foi aproveitado para realização uma elicitação de requisitos.
+O conjunto de características detalhadas definem o perfil do usuário: "O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado" (BARBOSA e SILVA, 2021, p.166). Este documento revela qual o perfil dos usuários do EvenTour, com base em dados que foram adquiridos por meio da técnica de Questionário, onde também foi aproveitado para realização uma elicitação de requisitos.
 
 
 ## Metodologia
 
-Adquirimos os dados que foram analisados por meio de um questionário distribuido entre os dias 31/10 e 03/11 do mês de 2024. O questionário foi disseminado em chats nas redes sociais nos fornecendo uma base de dados para a elicitação de requisitos do Web/App.
+Adquirimos os dados que foram analisados por meio de um questionário distribuido entre os dias 31/10 e 03/11 do mês de 2024. O questionário foi disseminado em chats nas redes sociais nos fornecendo uma base de dados para a elicitação de requisitos do EvenTour.
 
 
 ## Questionário

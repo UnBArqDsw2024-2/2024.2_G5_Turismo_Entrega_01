@@ -13,68 +13,115 @@ Abaixo nas figuras estão os gráficos obtidos a partir dos dados coletados:
 
 
 <center>
+
+#### Gráfico - 01
+
 <div width="200" style="max-width: 600px;">
     <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=1186072460&amp;format=interactive"></iframe>
 </div>
+
 </center>
 
 
-
 <center>
+
+#### Gráfico - 02
+
 <div width="200" style="max-width: 600px;">
     <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=138015584&amp;format=interactive"></iframe>
 </div>
+
 </center>
 
 
 <center>
+
+#### Gráfico - 03
+
 <div width="200" style="max-width: 600px;">
     <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=728425546&amp;format=interactive"></iframe>
 </div>
+
 </center>
 
 
 <center>
+
+#### Gráfico - 04
+
 <div width="200" style="max-width: 600px;">
     <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=1413035827&amp;format=interactive"></iframe>
 </div>
+
 </center>
 
 
 <center>
+
+#### Gráfico - 05
+
 <div width="200" style="max-width: 600px;">
     <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=313215670&amp;format=interactive"></iframe>
 </div>
+
 </center>
 
 
 <center>
+
+#### Gráfico - 06
+
 <div width="200" style="max-width: 600px;">
     <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=97371479&amp;format=interactive"></iframe>
 
 </div>
+
 </center>
 
 
+
 <center>
+
+#### Gráfico - 07
+
 <div width="200" style="max-width: 600px;">
     <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=904267877&amp;format=interactive"></iframe>
 
 </div>
+
 </center>
 
+
+
 <center>
+
+#### Gráfico - 08
+
 <div width="200" style="max-width: 600px;">
     <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=558591694&amp;format=interactive"></iframe>
 </div>
+
 </center>
 
+
+
 <center>
+
+#### Gráfico - 09
 <div width="200" style="max-width: 600px;">
     <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=612003003&amp;format=interactive"></iframe>
 </div>
+
 </center>
 
+<center>
+
+#### Gráfico - 10
+<div width="200" style="max-width: 600px;">
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTax_8fJ_zud_hCM2Y17Bh2sGeOV31yEW_1uHMHh9ZUGiN4ecCuiFdCB3gLHQ7shz0WUBfnjJrTtKh/pubchart?oid=570206520&amp;format=interactive"></iframe>
+</div>
+
+</center>
 
 ## Perfil do Usuário
 
