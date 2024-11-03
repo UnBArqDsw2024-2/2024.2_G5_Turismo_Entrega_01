@@ -19,4 +19,4 @@ Ao prosseguir, você declara estar ciente dos termos e concorda em participar de
 
 | Versão |   Descrição         |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criando termo de consentimento para o questionário | Joel Soares | 30/10/2024 |   | |
+| 1.0    | Criando termo de consentimento para o questionário | [Joel Soares](https://github.com/JoelSRangel) | 30/10/2024 | [Claudio Henrique](https://github.com/claudiohsc) | 02/11/2024 |
