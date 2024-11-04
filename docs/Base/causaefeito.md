@@ -48,7 +48,7 @@ Esse modelo de diagrama ajuda a equipe a visualizar, de forma estruturada, as v�
 ## Diagrama Visual
 Abaixo, segue a imagem do diagrama de causa-efeito:
 
-![Diagrama de Causa-Efeito](docs\Base\assets\causa-efeito\Causa-Efeito.png)
+![Diagrama de Causa-Efeito](assets/causa-efeito/Causa-Efeito.png)
 
 ## Histórico de Versões
 
