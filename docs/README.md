@@ -29,20 +29,30 @@
 O Projeto Eventour surge como um trabalho da disciplina de arquitetura e desenho de software da Unb - FCTE(Faculade de Ciências e Tecnologias em Engenharia). O Eventour é um Web/App informativo que apresenta eventos relacionados a festas típicas que ocorrem sazonalmente, ele possibilita a filtragem dos eventos por tema e local do usuário.
 
 ## Screenshots da Primeira Entrega
-Abaixo é apresentados nas respectivas figuras 1,2 e 3 exemplos de artefatos produzidos na entrega 01 - (DSW) Base.
+Abaixo são apresentados exemplos de artefatos produzidos na entrega 01 - (DSW) Base.
 
 ### Mapa Mental
 
-<div>
+<div style= "max-width: 800px">
 
-![]
+![Mapa Mental](Base/assets/mapaMental/MapaMental.png)
 
 </div>
 
-<div>
+### RichPicture
+
+<div style= "max-width: 800px">
+
+![RichPicture](Base/assets/richpicture/Rich%20Picture-EvenTour.drawio.png)
+
 </div>
 
-<div>
+### Storyboard
+
+<div style= "max-width: 800px">
+
+![Storyboard](Base/assets/storyboards/storyboard-guilherme.jpg)
+
 </div>
 
 ## Há algo a ser executado?
@@ -56,6 +66,12 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 ## Informações Complementares 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
+
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
+| :----: | :--: | --------- | ----------- | ------ | :---: |
+| 1.0  | 03/11/2024 | Criação do documento | [Kathlyn][KathlynGH] e [Elias Oliveira][EliasGH] | [][] |  |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
