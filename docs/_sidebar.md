@@ -10,6 +10,7 @@
       - [1.1.2. Análise Documental](Base/elicitacao/analise_documental.md)
       - [1.1.3. Entrevista](Base/elicitacao/requisitos-entrevista.md)
       - [1.1.4. Protótipo de Alta Fidelidade](Base/1.6.ProtótipoDeAltaFidelidade.md)
+      - [1.1.5. Priorização - MosCOW](Base/Priorizacao.md)
     - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1. Brainstorming](Base/Brainstorm.md)
       - [1.2.2. Mapa Mental](Base/1.1.2.Mapa-mental.md)
