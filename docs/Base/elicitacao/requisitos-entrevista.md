@@ -52,7 +52,7 @@ Para a elicitação de requisitos do Eventour, utilizamos entrevistas como técn
 
 | Versão | Data       | Descrição                         | Autor(es)                                                  | Revisor(es)| Detalhes da revisão|
 |:--------:|:------------:|:-----------------------------------:|:-------------------------------------------------------:|:--:|:---:|
-| 1.0    | 03/11/2024 | Criação do documento inicial 5W2H | [Ana Luíza Fernandes](https://github.com/analufernanndess) |[Cláudio Henrique][ClaudioGH]|Foi solicitado a elicitação em tabelas e com ID.|
+| 1.0    | 03/11/2024 | Criação do documento inicial | [Ana Luíza Fernandes](https://github.com/analufernanndess) |[Cláudio Henrique][ClaudioGH]|Foi solicitado a elicitação em tabelas e com ID.|
 | 1.1    | 04/11/2024 | Revisão e ajustes nas tabelas     | [Ana Luíza Fernandes](https://github.com/analufernanndess)        |[Cláudio Henrique][ClaudioGH]| Artefato corrigido e revisado.|
 
 
