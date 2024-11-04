@@ -21,19 +21,12 @@ Foi realizada uma videoconferência com todos os integrantes do grupo, onde cada
 
 ![Brainstorm](assets/brainStorm/Brainstorm.png)
 
-Todos participantes:
-[Ana Luíza Fernandes Alves da rocha][AnaGH],
-[Caina][CainaGH],
-[Cláudio Henrique][ClaudioGH],
-[Elias][EliasGH],
-[Guilherme][GuilhermeGH],
-[Joel][JoelGH],
-[Kathlyn][KathlynGH],
-[Pablo S. Costa][PabloGH],
-[Pedro Rodiquero][PedroRGH],
-[Pedro Santos][PedroPGH],
-[Samuel][SamuelGH],
-[Tales Rodrigues Goncalves][TalesGH]
+<div  style="text-align: center">
+
+ <font size="3">Fonte: [Ana Luíza][AnaGH],[Cainã Fretias][CainaGH], [Cláudio Henrique][ClaudioGH], [Elias][EliasGH], [Guilherme][GuilhermeGH], [Joel][JoelGH], [Kathlyn Lara][KathlynGH], [Pablo S.][PabloGH] e [Pedro Paulo][PedroPGH], [Pedro Rodiquero][PedroRGH] e [Samuel][SamuelGH], 2024.</font>
+
+<div>
+
 
 ## Bibliografia
 
@@ -43,8 +36,8 @@ Todos participantes:
 # Histórico de Versão
 | Data       | Versão | Descrição                         | Autor(es)                            | Revisor(es) | Detalhes da Revisão|
 |------------|--------|-----------------------------------|--------------------------------------| :---: |:---:|
-| 03.11.2024 | `1.0`    | Criação da documentação Brainstorm | [Tales Rodrigues Goncalves][TalesGH] | |  |
-| 03.11.2024 | `1.1`    | Adição de bibliografia            | [Tales Rodrigues Goncalves][TalesGH] | |  |
+| 03.11.2024 | `1.0`    | Criação da documentação Brainstorm | [Tales Rodrigues Goncalves][TalesGH] | [Cláudio Henrique][ClaudioGH] | Foi solicitado que o autor adicionasse uma seção como Bibliografia e a fonte de todos os integrantes que realizaram o Brainstorm |
+| 03.11.2024 | `1.1`    | Adição de bibliografia            | [Tales Rodrigues Goncalves][TalesGH] |[Cláudio Henrique][ClaudioGH] | Artefato revisado e corrigido. Só centralizei a fonte. [#37](https://github.com/UnBArqDsw2024-2/2024.2_G5_Turismo_Entrega_01/pull/37)|
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
