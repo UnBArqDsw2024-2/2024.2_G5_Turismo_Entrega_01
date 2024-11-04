@@ -43,10 +43,13 @@ Foi utiliado o a plataforma miro para a realização da técnica de priorizaçã
 
 </center>
 
+# Referências
+Método MoSCoW. Disponível em: https://voitto.com.br/blog/artigo/metodo-moscow. Acesso em 04 de novembro de 2024.
+
 # Histórico de Versão
 | Data       | Versão | Descrição                                         | Autor(es)                                                                         | Revisor(es) | Detalhes da Revisão|
 |------------|--------|---------------------------------------------------|-----------------------------------------------------------------------------------|:-------:|:---:|
-| 04.11.2024 | `1.0`    | Criação do documento de priorização de requisitos | [Tales Rodrigues Goncalves][TalesGH], [Ana Luíza Fernandes Alves da Rocha][AnaGH] |         |  |
+| 04.11.2024 | `1.0`    | Criação do documento de priorização de requisitos | [Tales Rodrigues Goncalves][TalesGH], [Ana Luíza Fernandes Alves da Rocha][AnaGH] |   [Kathlyn Murussi](KathlynGH)  | Revisado e adicionando referências |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
