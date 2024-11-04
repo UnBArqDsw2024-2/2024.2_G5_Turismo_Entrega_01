@@ -113,7 +113,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
 | :----: | :--: | --------- | ----------- | ------ | :---: |
-|`1.0`| 02/11/2024 | Criação do documento| [Elias Oliveira][EliasGH], [Cainã Freitas][CainaGH] e [Cláudio Henrique][ClaudioGH]|  |  |
+| `1.0` | 02/11/2024 | Criação do documento| [Elias Oliveira][EliasGH], [Cainã Freitas][CainaGH] e [Cláudio Henrique][ClaudioGH]|  |  |
 
 
 [AnaGH]: https://github.com/analufernanndess
