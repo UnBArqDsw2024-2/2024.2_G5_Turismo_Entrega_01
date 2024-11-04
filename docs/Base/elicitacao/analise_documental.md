@@ -218,13 +218,13 @@ Legenda para as Tabelas:
 [SamuelGH]: https://github.com/samuelalvess
 [TalesGH]: https://github.com/TalesRG
 
-[Brainstorming]:
-[Mapa_mental]:
-[5W2H]:
-[Diagrama_de_causa_e_efeito]:
-[Rich_Picture]:
-[Léxicos]:
-[Storyboards]:
-[baixaf]:
-[altaf]:
-[estilo]:
+[Brainstorming]: Base/Brainstorm.md
+[Mapa_mental]: Base/1.1.2.Mapa-mental.md
+[5W2H]: Base/SW2H.md
+[Diagrama_de_causa_e_efeito]: Base/causaefeito.md
+[Rich_Picture]: Base/1.2.5.Richpicture.md
+[Léxicos]: Base/1.2.1.Léxicos.md
+[Storyboards]: Base/1.2.6.Storyboards.md
+[baixaf]: Base/elicitacao/analise_documental.md
+[altaf]: Base/elicitacao/analise_documental.md
+[estilo]: Base/1.5.2.guia-de-estilo.md
