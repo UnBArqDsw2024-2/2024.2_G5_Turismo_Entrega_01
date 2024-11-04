@@ -71,14 +71,16 @@ Os resultados dessa reunião foram:
 
 ## Gravação da reunião
 
-<!--- Disponibilizar o video e o link para o video  --->
-[Link para a gravação](https://unbbr.sharepoint.com/:v:/s/Grupo5-ArqDSW2024.2/Eavr1rRg9iBMggR2q9_vMuYB-dH66fpPc9gBfGmiDYIhPA?e=HWeyqC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<div style= "max-width:450px">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M7Zn1G_XD-8?si=Lbej1tN-5GAkG1ef" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 29/10/2024 | Criação do documento| [Cláudio Henrique][ClaudioGH]|  |
+|`1.0`| 29/10/2024 | Criação do documento| [Cláudio Henrique][ClaudioGH]| [Elias Oliveira][EliasGH] |
+|`1.1`| 03/11/2024 | Adicionando Vídeo da reunião| [Elias Oliveira][EliasGH]| [Cláudio Henrique][ClaudioGH] |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc

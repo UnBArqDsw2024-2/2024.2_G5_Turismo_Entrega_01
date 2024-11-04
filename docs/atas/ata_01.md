@@ -60,14 +60,16 @@ Os resultados alcançados pelo grupo foram:
 
 ## Gravação da reunião
 
-<!--- Disponibilizar o video e o link para o video  --->
-[Link para a gravação](https://unbbr.sharepoint.com/sites/Grupo5-ArqDSW2024.2/_layouts/15/stream.aspx?id=%2Fsites%2FGrupo5%2DArqDSW2024%2E2%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FNova%20reuni%C3%A3o%20do%20canal%2D20241028%5F085407%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ef4f1b373%2D19c6%2D4cd4%2Dae28%2D116c1f27393e)
+<div style= "max-width:450px">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rnoQweJeemg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 28/10/2024 | Criação do documento| [Elias Oliveira][EliasGH]| [Cláudio Henrique][ClaudioGH] |
+|`1.1`| 03/11/2024 | Adicionando Vídeo da reunião| [Elias Oliveira][EliasGH]| [Cláudio Henrique][ClaudioGH] |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
