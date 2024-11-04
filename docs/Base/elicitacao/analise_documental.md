@@ -8,7 +8,7 @@ O processo começa com uma análise preliminar para selecionar os documentos mai
 
 ## Metodologia
 
-A partir da análise documental do projeto realizado pelo Grupo 05 da disciplina de Arquitetura e Desenho de Software, foram identificadas funcionalidades (Verificar festividades, listar eventos, manutenção de eventos, gerenciamento de perfil e sistema de alertas) que serão implementadas no Web-App utilizando os documentos ([Brainstorming][Brainstorming], [Mapa mental][Mapa_mental], [5W2H][5W2H], [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito], [Rich Picture][Rich_Picture], [Léxicos][Léxicos], [Storyboards][Storyboards], [Protótipo de baixa fidelidade][baixaf], [Protótipo de alta fidelidade][altaf], [Guia de Estilo][estilo]). 
+A partir da análise documental do projeto realizado pelo Grupo 05 da disciplina de Arquitetura e Desenho de Software, foram identificadas funcionalidades (Verificar festividades, listar eventos, manutenção de eventos, gerenciamento de perfil e sistema de alertas) que serão implementadas no Web-App utilizando os documentos ([Brainstorming][Brainstorming], [Mapa mental][Mapa_mental], [5W2H][5W2H], [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito], [Rich Picture][Rich_Picture], [Léxicos][Léxicos], [Storyboards][Storyboards], [Protótipo de baixa fidelidade][baixaf], [Protótipo de alta fidelidade][altaf], [Guia de Estilo][estilo], [Lei nº 13.146, Art. 74](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm)). 
 
 Com isso, foram elicitados requisitos relacionados às respectivas funcionalidades, seguindo a estrutura proposta por Vazquez et. al (2016), em que, presente na Tabela 02, temos uma pergunta que queremos responder, uma resposta à ela, o requisito proveniente dessa resposta e também adicionamos o ID desse requisito dentro desse artefato, o seu tipo e versão. Ao final da página, também temos as Tabela 3 que agrupa os requisitos funcionais e não-funcionais elicitados, em suas versões mais atuais.
 
@@ -30,6 +30,7 @@ Na Tabela 1 abaixo, temos os documentos analisados junto a suas versões e as da
 | [Protótipo de baixa fidelidade][baixaf] | `1.0` | 02/11/2024 |
 | [Protótipo de alta fidelidade][altaf] | `1.0` | 02/11/2024 |
 | [Guia de Estilo][estilo] | `1.0` | 03/11/2024 |
+| [Lei nº 13.146, Art. 74](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm) | Não se aplica | 06/07/2015 |
 
 </center>
 
@@ -134,14 +135,11 @@ Legenda para as Tabelas:
 > 13. Guia de Estilo do grupo 05 de Arquiterura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Guia de Estilo][estilo]. Acesso em: 03 deNovembroo de 2024
 >
 
-
-
-
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
 | :----: | :--: | --------- | ----------- | ------ | :---: |
-| `1.0`  | 03/11/2024 | Criação do documento |  |  |  |
+| `1.0`  | 03/11/2024 | Criação do documento | [Joel][JoelGH], [Pablo][PabloGH] e [Pedro Rodrigues][PedroRGH] |  |  |
 
 
 [AnaGH]: https://github.com/analufernanndess
