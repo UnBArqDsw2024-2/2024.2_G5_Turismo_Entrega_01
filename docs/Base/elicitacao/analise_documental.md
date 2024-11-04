@@ -201,7 +201,7 @@ Legenda para as Tabelas:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
 | :----: | :--: | --------- | ----------- | ------ | :---: |
-| `1.0`  | 03/11/2024 | Criação do documento | [Joel][JoelGH], [Pablo][PabloGH] e [Pedro Rodrigues][PedroRGH] |  |  |
+| `1.0`  | 03/11/2024 | Criação do documento | [Joel][JoelGH], [Pablo][PabloGH] e [Pedro Rodrigues][PedroRGH] | [Pedro Paulo][PedroPGH] | Corrigido e revisado. |
 
 
 [AnaGH]: https://github.com/analufernanndess

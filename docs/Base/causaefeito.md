@@ -53,7 +53,8 @@ Abaixo, segue a imagem do diagrama de causa-efeito:
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
-| 1.0 | 03/11/2024 | Criação do Artefato | [Samuel Alves][https://github.com/samuelalvess] | [Guilherme M.][https://github.com/gmeister18] | :---: |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1.0 | 03/11/2024 | Criação do Artefato | [Samuel Alves](https://github.com/samuelalvess) | [Guilherme M.](https://github.com/gmeister18)|-- |
 
 
 <div align="justify">
