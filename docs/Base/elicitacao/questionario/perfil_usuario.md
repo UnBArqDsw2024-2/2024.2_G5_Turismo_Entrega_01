@@ -134,7 +134,7 @@ A partir dos resultados obtidos do formulário e pelas análises dos gráficos a
 |Característica|Descrição|
 |---|---|
 **Idade:** |18 - 25 anos.
-**Gênero:** |Em sua maioria feminino.
+**Gênero:** |Dividido em Masculino e Feminino.
 **Experiência:** |Experiente.
 **Escolaridade:** |Superior Incompleto.
 **Tarefas primárias:** |Busca por eventos na cidade atual do usuário.
