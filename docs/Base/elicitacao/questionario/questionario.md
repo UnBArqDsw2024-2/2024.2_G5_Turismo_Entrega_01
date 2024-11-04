@@ -116,6 +116,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 |`1.0`| 02/11/2024 | Criação do documento| [Elias Oliveira][EliasGH], [Cainã Freitas][CainaGH] e [Cláudio Henrique][ClaudioGH]| [Pedro Paulo][PedroPGH] | O questionário foi totalmente revisado e validado. Está de acordo com a padronização especificada pelo grupo.[#7](https://github.com/UnBArqDsw2024-2/2024.2_G5_Turismo_Entrega_01/issues/7)  |
 
 
+
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
 [ClaudioGH]: https://github.com/claudiohsc
