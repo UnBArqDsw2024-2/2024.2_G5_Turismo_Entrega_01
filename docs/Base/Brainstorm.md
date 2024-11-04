@@ -21,14 +21,30 @@ Foi realizada uma videoconferência com todos os integrantes do grupo, onde cada
 
 ![Brainstorm](assets/brainStorm/Brainstorm.png)
 
+Todos participantes:
+[Ana Luíza Fernandes Alves da rocha][AnaGH],
+[Caina][CainaGH],
+[Cláudio Henrique][ClaudioGH],
+[Elias][EliasGH],
+[Guilherme][GuilhermeGH],
+[Joel][JoelGH],
+[Kathlyn][KathlynGH],
+[Pablo S. Costa][PabloGH],
+[Pedro Rodiquero][PedroRGH],
+[Pedro Santos][PedroPGH],
+[Samuel][SamuelGH],
+[Tales Rodrigues Goncalves][TalesGH]
 
+## Bibliografia
+
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. p. 152,153.
 
 
 # Histórico de Versão
-| Data       | Versão | Descrição             | Autor(es)          | Revisor(es) | Detalhes da Revisão|
-|------------|--------|-----------------------|--------------------| :---: |:---:|
-| 03.11.2024 | `1.0`    | Documentação do Artefato  | Todos os integrantes presentes na reunião | |  |
-
+| Data       | Versão | Descrição                         | Autor(es)                            | Revisor(es) | Detalhes da Revisão|
+|------------|--------|-----------------------------------|--------------------------------------| :---: |:---:|
+| 03.11.2024 | `1.0`    | Criação da documentação Brainstorm | [Tales Rodrigues Goncalves][TalesGH] | |  |
+| 03.11.2024 | `1.1`    | Adição de bibliografia            | [Tales Rodrigues Goncalves][TalesGH] | |  |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
