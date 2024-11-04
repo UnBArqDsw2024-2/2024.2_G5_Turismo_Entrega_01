@@ -33,7 +33,21 @@ O 5W2H oferece uma estrutura simples e eficiente para alinhar as expectativas e 
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                | Autor                                                      |
-|--------|------------|------------------------------------------|------------------------------------------------------------|
-| 1.0    | 03/11/2024 | Criação do documento inicial 5W2H       | [Ana Luíza Fernandes](https://github.com/analufernanndess) |
-| 1.1    | 04/11/2024 | Revisão e ajustes na metodologia        | [Ana Luíza Fernandes](https://github.com/analufernanndess)                                         |
+| Versão | Data       | Descrição                                | Autor(es)                              | Revisor(es)| Detalhes da Revisão|
+|:-------:|:----------:|:---------------------------------------:|:------------------------------------------------------------:|:----:|:----:|
+| 1.0    | 03/11/2024 | Criação do documento inicial 5W2H       | [Ana Luíza Fernandes](https://github.com/analufernanndess) | [Cláudio Henrique][ClaudioGH]| Foi solicitado uma padronização com Introdução, metodologia e referências |
+| 1.1    | 04/11/2024 | Revisão e ajustes na metodologia        | [Ana Luíza Fernandes](https://github.com/analufernanndess) | [Cláudio Henrique][ClaudioGH]| Artefato corrigido e revisado. |
+
+
+[AnaGH]: https://github.com/analufernanndess
+[CainaGH]: https://github.com/freitasc
+[ClaudioGH]: https://github.com/claudiohsc
+[EliasGH]: https://github.com/EliasOliver21
+[GuilhermeGH]: https://github.com/gmeister18
+[JoelGH]: https://github.com/JoelSRangel
+[KathlynGH]: https://github.com/klmurussi
+[PabloGH]: https://github.com/pabloheika
+[PedroRGH]: https://github.com/pedro-rodiguero
+[PedroPGH]: https://github.com/Pedrin0030
+[SamuelGH]: https://github.com/samuelalvess
+[TalesGH]: https://github.com/TalesRG
