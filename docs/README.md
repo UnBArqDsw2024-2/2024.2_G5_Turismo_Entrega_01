@@ -71,7 +71,7 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
 | :----: | :--: | --------- | ----------- | ------ | :---: |
-| 1.0  | 03/11/2024 | Criação do documento | [Kathlyn][KathlynGH] e [Elias Oliveira][EliasGH] | [][] |  |
+| 1.0  | 03/11/2024 | Criação do documento | [Kathlyn][KathlynGH] e [Elias Oliveira][EliasGH] | [Claudio Henrique][ClaudioGH] | Artefato corrigido e revisado. |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
