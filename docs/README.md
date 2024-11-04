@@ -12,7 +12,7 @@
 |<img src="https://avatars.githubusercontent.com/u/79493200?v=4" width="100px;" alt="Foto Claudio Carvalho"/>| 22/1007958  | [Cláudio Carvalho][ClaudioGH] |
 |<img src="https://avatars.githubusercontent.com/u/101871853?v=4" width="100px;" alt="Foto Elias Oliveira"/>| 22/1007706  | [Elias Oliveira][EliasGH] |
 |<img src="https://avatars.githubusercontent.com/u/88345985?v=4" width="100px;" alt="Foto Guilherme Correa"/>| 20/2016382  | [Guilherme Correa][GuilhermeGH] |
-|| 19/0029692  | [Igor de Santana][GuilhermeGH] |
+|<img src="https://avatars.githubusercontent.com/u/78519040?v=4" width="100px;" alt="Foto Igor de Santana"/>| 19/0029692  | [Igor de Santana][GuilhermeGH] |
 |<img src="https://avatars.githubusercontent.com/u/98978800?v=4" width="100px;" alt="Foto Joel Rangel"/>| 21/1039546  | [Joel Rangel][JoelGH] |
 |<img src="https://avatars.githubusercontent.com/u/52364259?v=4" width="100px;" alt="Foto Kathlyn Murussi"/>| 18/0042378  | [Kathlyn Murussi][KathlynGH] |
 |<img src="https://avatars.githubusercontent.com/u/45216323?v=4" width="100px;" alt="Foto Pablo Costa"/>| 18/0128817  | [Pablo Costa][PabloGH] |
@@ -22,11 +22,28 @@
 |<img src="https://avatars.githubusercontent.com/u/70861660?v=4" width="100px;" alt="Foto Tales Gonçalves"/>| 21/1041295  | [Tales Gonçalves][TalesGH] |
 
 
+
+
 ## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+
+O Projeto Eventour surge como um trabalho da disciplina de arquitetura e desenho de software da Unb - FCTE(Faculade de Ciências e Tecnologias em Engenharia). O Eventour é um Web/App informativo que apresenta eventos relacionados a festas típicas que ocorrem sazonalmente, ele possibilita a filtragem dos eventos por tema e local do usuário.
 
 ## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+Abaixo é apresentados nas respectivas figuras 1,2 e 3 exemplos de artefatos produzidos na entrega 01 - (DSW) Base.
+
+### Mapa Mental
+
+<div>
+
+![]
+
+</div>
+
+<div>
+</div>
+
+<div>
+</div>
 
 ## Há algo a ser executado?
 
