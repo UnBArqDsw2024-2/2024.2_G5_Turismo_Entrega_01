@@ -132,7 +132,6 @@ Legenda para as Tabelas:
 | AD18 | O usuário deve ser capaz de avaliar e ver as avaliações dos eventos. | Sim | `1.0` | [Brainstorm][Brainstorming], [Rich Picture][Rich_Picture]  |
 | AD19 | O sistema deverá ser capaz de fornecer ao usuário a possibilidade de realizar login | Sim | `1.0` | [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture] |
 | AD22 | O sistema deverá ser capaz de distiguir os tipos de usuários cadastrados, fornecendo permissões específicas a cada um | Sim | `1.0` | [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture]  |
-| AD26 | O sistema deve ser responsivo. | Sim | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito], [Guia de Estilo][estilo]  |
 | AD27 | A aplicação deverá ser capaz de apresentar ao usuário a possibilidade de pesquisar pelo nome dos eventos | Sim | `1.0` | [Protótipo de alta fidelidade][altaf], [Rich Picture][Rich_Picture]  |
 | AD29 | A aplicação deverá ser capaz de informar ao usuário a classificação indicativa dos eventos cadastrados  | Sim | `1.0` | [Protótipo de alta fidelidade][altaf]  |
 | AD30 | A aplcação deverá ser capaz de redirecionar o usuário à um mapa que apresenta o endereço do evento | Sim | `1.0` | [Brainstorm][Brainstorming], [Protótipo de alta fidelidade][altaf], [Protótipo de baixa fidelidade][baixaf] |
@@ -160,6 +159,7 @@ Legenda para as Tabelas:
 | AD21 | O sistema deverá ser capaz de salvar as informações cadastradas pelo usuário | Sim | `1.0` |  [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture] |
 | AD24 | As informações devem ser atualizadas em tempo abaixo de 300ms | Sim | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito]  |
 | AD25 | O usuário deve ser perguntado sobre a confirmação de operações importantes | Sim | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito]  |
+| AD26 | O sistema deve ser responsivo. | Sim | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito], [Guia de Estilo][estilo]  |
 | AD28 | O aplicativo deve criptografar todos os dados do usuário durante o armazenamento e transmissão. | Sim | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito]  |
 | AD33 | O sistema deve seguir uma padronização minimalista. | Sim | `1.0` | [Brainstorm][Brainstorming], [Guia de Estilo][estilo]  |
 
@@ -199,9 +199,10 @@ Legenda para as Tabelas:
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
-| :----: | :--: | --------- | ----------- | ------ | :---: |
+| Versão |    Data    | Descrição            | Autor(es)                                                      | Revisor(es) | Detalhes da revisão |
+|:------:|:----------:|----------------------|----------------------------------------------------------------| ------ | :---: |
 | `1.0`  | 03/11/2024 | Criação do documento | [Joel][JoelGH], [Pablo][PabloGH] e [Pedro Rodrigues][PedroRGH] |  |  |
+| `1.1`  | 04/11/2024 | Atualizando RF e RNF | [Ana Luíza Fernandes][AnaGH] e [Tales Rodrigues][TalesGH]      |  |  |
 
 
 [AnaGH]: https://github.com/analufernanndess
