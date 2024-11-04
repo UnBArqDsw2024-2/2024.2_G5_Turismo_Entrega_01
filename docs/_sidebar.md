@@ -7,6 +7,8 @@
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
     - [1.1. Design Sprint](/Base/1.1.DesignSprint.md)
       - [1.1.1 Questionário](/Base/elicitacao/questionario/questionario.md)
+      - [1.1.2 Análise Documental](Base/elicitacao/analise_documental.md)
+      - [1.1.3 Entrevista](Base/elicitacao/requisitos-entrevista.md)
     - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1. Brainstorming](Base/Brainstorm.md)
       - [1.2.2. Mapa Mental](Base/1.1.2.Mapa-mental.md)
