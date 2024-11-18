@@ -114,32 +114,32 @@ Legenda para as Tabelas:
 
 | ID  | Requisito Ilicitado | Implementado | Versão | Rastreabilidade |
 | --- | ------------------- | ------------ | ------ | --------------- |
-| AD01 | O sistema deve ser capas de usar a localização do usuario para mostrar as atrações proximas. | Sim | `1.0` | [Brainstorm][Brainstorming]  |
-| AD04 | A aplicação deve ser capaz apresentar eventos filtrados por localidade ao usuário | Sim | `1.0` | [Brainstorm][Brainstorming], [Rich Picture][Rich_Picture] |
-| AD05 | A aplicação deve ser capaz de permitir que um tipo de usuário cadastre eventos | Sim | `1.0` | [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture]|
-| AD06 | A aplicação deve ser capaz de apresentar as datas de disponibilidade dos eventos cadastrados | Sim | `1.0` | [Mapa mental][Mapa_mental]  |
-| AD07 | A aplicação deve ser capaz de fornecer informações descritivas sobre as culturas das festividades | Sim | `1.0` | [Mapa mental][Mapa_mental]  |
-| AD08 | A aplcação deve ser capaz de notificar o usuário sobre as alterações nos eventos em que ele está interessado | Sim | `1.0` | [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture]  |
-| AD09 | A aplicação deverá ser capaz de prover ao usuário a opção de favoritar os eventos na qual há o interesse de participação | Sim | `1.0` | [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture] |
-| AD10 | A aplicação deverá ser capaz de informar ao usuário o valor dos ingressos dos eventos | Sim | `1.0` | [Mapa mental][Mapa_mental]  |
-| AD11 | A aplicação deverá ser capaz de informar ao usuário o valor dos alimentos dos eventos | Sim | `1.0` | [Mapa mental][Mapa_mental]  |
-| AD12 | A aplicação deverá ser capaz de informar ao usuário o valor da entrada das atrações presentes nos eventos | Sim | `1.0` | [Mapa mental][Mapa_mental]  |
-| AD13 | A aplicação deve ser capaz de fornecer informações sobre asocomiidas e bebidas que farão aprte do cardápio dos eventos | Sim | `1.0` |  [Mapa mental][Mapa_mental] |
-| AD14 | O usuario deve ser capaz de comentar nos eventos e ver os comentarios anteriores. | Sim | `1.0` | [Brainstorm][Brainstorming]  |
-| AD15 | A aplicação deverá ser capaz de informar ao usuário sobre os estilos musicas e danças de cada festividade registrada | Sim | `1.0` | [Mapa mental][Mapa_mental]  |
-| AD16 | A aplicação deverá ser capaz de informar ao usuário sobre as vestimentas e apresentações típicas das festividades registradas | Sim | `1.0` | [Mapa mental][Mapa_mental] |
-| AD17 | O sistema deverá ser capaz de fornecer a opção do usuário se cadastrar na aplicação | Sim | `1.0` | [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture] |
-| AD18 | O usuário deve ser capaz de avaliar e ver as avaliações dos eventos. | Sim | `1.0` | [Brainstorm][Brainstorming], [Rich Picture][Rich_Picture]  |
-| AD19 | O sistema deverá ser capaz de fornecer ao usuário a possibilidade de realizar login | Sim | `1.0` | [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture] |
-| AD22 | O sistema deverá ser capaz de distiguir os tipos de usuários cadastrados, fornecendo permissões específicas a cada um | Sim | `1.0` | [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture]  |
-| AD26 | O sistema deve ser responsivo. | Sim | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito], [Guia de Estilo][estilo]  |
-| AD27 | A aplicação deverá ser capaz de apresentar ao usuário a possibilidade de pesquisar pelo nome dos eventos | Sim | `1.0` | [Protótipo de alta fidelidade][altaf], [Rich Picture][Rich_Picture]  |
-| AD29 | A aplicação deverá ser capaz de informar ao usuário a classificação indicativa dos eventos cadastrados  | Sim | `1.0` | [Protótipo de alta fidelidade][altaf]  |
-| AD30 | A aplcação deverá ser capaz de redirecionar o usuário à um mapa que apresenta o endereço do evento | Sim | `1.0` | [Brainstorm][Brainstorming], [Protótipo de alta fidelidade][altaf], [Protótipo de baixa fidelidade][baixaf] |
-| AD31 | A aplicação deve ser capaz apresentar eventos filtrados por tema ao usuário  | Sim | `1.0` |  [Storyboards][Storyboards] |
-| AD32 | A aplicação odeverá ser capaz de gerar um link de compartilhamento para o usuário | Sim | `1.0` | [Storyboards][Storyboards] |
-| AD33 | A aplicação deverá ser capaz de fornecer ao usuário as informações osbre a acessibilidade dos eventos  | Sim | `1.0` | [Lei nº 13.146, Art. 74](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm)  | 
-| AD34 | A aplicação deverá ser capaz de fornecer ao usuário opções de acessibilidade  | Sim | `1.0` | [Lei nº 13.146, Art. 74](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm)  | 
+| AD01 | O sistema deve ser capas de usar a localização do usuario para mostrar as atrações proximas. | Não | `1.0` | [Brainstorm][Brainstorming]  |
+| AD04 | A aplicação deve ser capaz apresentar eventos filtrados por localidade ao usuário | Não | `1.0` | [Brainstorm][Brainstorming], [Rich Picture][Rich_Picture] |
+| AD05 | A aplicação deve ser capaz de permitir que um tipo de usuário cadastre eventos | Não | `1.0` | [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture]|
+| AD06 | A aplicação deve ser capaz de apresentar as datas de disponibilidade dos eventos cadastrados | Não | `1.0` | [Mapa mental][Mapa_mental]  |
+| AD07 | A aplicação deve ser capaz de fornecer informações descritivas sobre as culturas das festividades | Não | `1.0` | [Mapa mental][Mapa_mental]  |
+| AD08 | A aplcação deve ser capaz de notificar o usuário sobre as alterações nos eventos em que ele está interessado | Não | `1.0` | [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture]  |
+| AD09 | A aplicação deverá ser capaz de prover ao usuário a opção de favoritar os eventos na qual há o interesse de participação | Não | `1.0` | [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture] |
+| AD10 | A aplicação deverá ser capaz de informar ao usuário o valor dos ingressos dos eventos | Não | `1.0` | [Mapa mental][Mapa_mental]  |
+| AD11 | A aplicação deverá ser capaz de informar ao usuário o valor dos alimentos dos eventos | Não | `1.0` | [Mapa mental][Mapa_mental]  |
+| AD12 | A aplicação deverá ser capaz de informar ao usuário o valor da entrada das atrações presentes nos eventos | Não | `1.0` | [Mapa mental][Mapa_mental]  |
+| AD13 | A aplicação deve ser capaz de fornecer informações sobre asocomiidas e bebidas que farão aprte do cardápio dos eventos | Não | `1.0` |  [Mapa mental][Mapa_mental] |
+| AD14 | O usuario deve ser capaz de comentar nos eventos e ver os comentarios anteriores. | Não | `1.0` | [Brainstorm][Brainstorming]  |
+| AD15 | A aplicação deverá ser capaz de informar ao usuário sobre os estilos musicas e danças de cada festividade registrada | Não | `1.0` | [Mapa mental][Mapa_mental]  |
+| AD16 | A aplicação deverá ser capaz de informar ao usuário sobre as vestimentas e apresentações típicas das festividades registradas | Não | `1.0` | [Mapa mental][Mapa_mental] |
+| AD17 | O sistema deverá ser capaz de fornecer a opção do usuário se cadastrar na aplicação | Não | `1.0` | [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture] |
+| AD18 | O usuário deve ser capaz de avaliar e ver as avaliações dos eventos. | Não | `1.0` | [Brainstorm][Brainstorming], [Rich Picture][Rich_Picture]  |
+| AD19 | O sistema deverá ser capaz de fornecer ao usuário a possibilidade de realizar login | Não | `1.0` | [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture] |
+| AD22 | O sistema deverá ser capaz de distiguir os tipos de usuários cadastrados, fornecendo permissões específicas a cada um | Não | `1.0` | [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture]  |
+| AD26 | O sistema deve ser responsivo. | Não | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito], [Guia de Estilo][estilo]  |
+| AD27 | A aplicação deverá ser capaz de apresentar ao usuário a possibilidade de pesquisar pelo nome dos eventos | Não | `1.0` | [Protótipo de alta fidelidade][altaf], [Rich Picture][Rich_Picture]  |
+| AD29 | A aplicação deverá ser capaz de informar ao usuário a classificação indicativa dos eventos cadastrados  | Não | `1.0` | [Protótipo de alta fidelidade][altaf]  |
+| AD30 | A aplcação deverá ser capaz de redirecionar o usuário à um mapa que apresenta o endereço do evento | Não | `1.0` | [Brainstorm][Brainstorming], [Protótipo de alta fidelidade][altaf], [Protótipo de baixa fidelidade][baixaf] |
+| AD31 | A aplicação deve ser capaz apresentar eventos filtrados por tema ao usuário  | Não | `1.0` |  [Storyboards][Storyboards] |
+| AD32 | A aplicação odeverá ser capaz de gerar um link de compartilhamento para o usuário | Não | `1.0` | [Storyboards][Storyboards] |
+| AD33 | A aplicação deverá ser capaz de fornecer ao usuário as informações osbre a acessibilidade dos eventos  | Não | `1.0` | [Lei nº 13.146, Art. 74](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm)  | 
+| AD34 | A aplicação deverá ser capaz de fornecer ao usuário opções de acessibilidade  | Não | `1.0` | [Lei nº 13.146, Art. 74](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm)  | 
 
 </center>
 
@@ -154,14 +154,14 @@ Legenda para as Tabelas:
 
 | ID  | Requisito Ilicitado | Implementado | Versão | Rastreabilidade |
 | --- | ------------------- | ------------ | ------ | --------------- |
-| AD02 | O usuário deverá ser capaz de acessar a aplicação através dos principais sistemas operacionais (Windows, macOS, Linux, Android e iOS) | Sim | `1.0` | [Brainstorm][Brainstorming]  |
-| AD03 | O usuário deverá acessar a aplicação através do navegador | Sim | `1.0` | [Brainstorm][Brainstorming]  |
-| AD20 | O sistema deve seguir as legislações governamentais do Pais instaurado. | Sim | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito]  |
-| AD21 | O sistema deverá ser capaz de salvar as informações cadastradas pelo usuário | Sim | `1.0` |  [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture] |
-| AD24 | As informações devem ser atualizadas em tempo abaixo de 300ms | Sim | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito]  |
-| AD25 | O usuário deve ser perguntado sobre a confirmação de operações importantes | Sim | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito]  |
-| AD28 | O aplicativo deve criptografar todos os dados do usuário durante o armazenamento e transmissão. | Sim | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito]  |
-| AD33 | O sistema deve seguir uma padronização minimalista. | Sim | `1.0` | [Brainstorm][Brainstorming], [Guia de Estilo][estilo]  |
+| AD02 | O usuário deverá ser capaz de acessar a aplicação através dos principais sistemas operacionais (Windows, macOS, Linux, Android e iOS) | Não | `1.0` | [Brainstorm][Brainstorming]  |
+| AD03 | O usuário deverá acessar a aplicação através do navegador | Não | `1.0` | [Brainstorm][Brainstorming]  |
+| AD20 | O sistema deve seguir as legislações governamentais do Pais instaurado. | Não | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito]  |
+| AD21 | O sistema deverá ser capaz de salvar as informações cadastradas pelo usuário | Não | `1.0` |  [Mapa mental][Mapa_mental], [Rich Picture][Rich_Picture] |
+| AD24 | As informações devem ser atualizadas em tempo abaixo de 300ms | Não | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito]  |
+| AD25 | O usuário deve ser perguntado sobre a confirmação de operações importantes | Não | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito]  |
+| AD28 | O aplicativo deve criptografar todos os dados do usuário durante o armazenamento e transmissão. | Não | `1.0` | [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito]  |
+| AD33 | O sistema deve seguir uma padronização minimalista. | Não | `1.0` | [Brainstorm][Brainstorming], [Guia de Estilo][estilo]  |
 
 </center>
 
